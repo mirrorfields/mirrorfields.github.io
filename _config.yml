@@ -6,12 +6,14 @@ description: >-
 url: "https://mirrorfields.github.io"
 baseurl: ""
 
-theme: minima
+remote_theme: jekyll/minima
 minima:
+  skin: dark
   date_format: "%B %-d, %Y"
 
 github_username: mirrorfields
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag

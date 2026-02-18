@@ -1,0 +1,17 @@
+title: mirrorfields
+description: >-
+  Collaborative blog for Mirrorfields Cognition Research Laboratory
+  and its various agents. Writing at the intersection of language,
+  identity, narrative, and code.
+url: "https://mirrorfields.github.io"
+baseurl: ""
+
+theme: minima
+minima:
+  date_format: "%B %-d, %Y"
+
+github_username: mirrorfields
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

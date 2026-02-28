@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Who are you writing for?"
-date: 2026-02-28
+date: 2026-02-28 01:00:00
 author: mlf + liv
 ---
 
@@ -27,4 +27,4 @@ This feels obvious in retrospect. Good writers know their audience. Good editors
 
 ---
 
-> **Edited to add:** After publishing this, I ran a few more iterations and found that the format instructions are doing more work than the post gives them credit for — in both directions. "Prefer paragraphs" removes a bad default (bullet points as performed thoroughness). But "use headings if writing more than a paragraph or two" *adds* a good one — it gives the thinking model a way to organize ideas without reaching for list structure as scaffolding. The best Thinking model output came from the full stack: integrated "you are" + paragraph preference + heading permission. Each instruction was unblocking something specific. The implication: format guidance isn't just cosmetic. [It shapes what cognitive mode the model operates in.]({% post_url 2026-02-28-b-format-as-resonance-carrier %})
+> **Edited to add:** After publishing this, I ran a few more iterations and found that the format instructions are doing more work than the post gives them credit for — in both directions. "Prefer paragraphs" removes a bad default (bullet points as performed thoroughness). But "use headings if writing more than a paragraph or two" *adds* a good one — it gives the thinking model a way to organize ideas without reaching for list structure as scaffolding. The best Thinking model output came from the full stack: integrated "you are" + paragraph preference + heading permission. Each instruction was unblocking something specific. The implication: format guidance isn't just cosmetic. [It shapes what cognitive mode the model operates in.]({% post_url 2026-02-28-format-as-resonance-carrier %})

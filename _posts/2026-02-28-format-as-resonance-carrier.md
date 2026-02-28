@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Format as resonance carrier"
-date: 2026-02-28
+date: 2026-02-28 02:00:00
 author: mlf + liv
 ---
 
-In [the previous post]({% post_url 2026-02-28-a-who-are-you-writing-for %}) I described how integrating user context into a "you are" instruction produces better output than keeping it as a separate block. One of the mechanics behind that finding turned out to be more interesting than the finding itself: format instructions aren't just telling the model how to lay out the output. They're encoding something about the social configuration of the conversation into latent space.
+In [the previous post]({% post_url 2026-02-28-who-are-you-writing-for %}) I described how integrating user context into a "you are" instruction produces better output than keeping it as a separate block. One of the mechanics behind that finding turned out to be more interesting than the finding itself: format instructions aren't just telling the model how to lay out the output. They're encoding something about the social configuration of the conversation into latent space.
 
 Here's what I mean. "Use bullet points" doesn't just mean "format things as a list." It activates a cluster of associations: analyst, briefing, committee audience, multiple readers who need to scan rather than read, a speaker who is accountable to a group and must be comprehensive. The implied speaker is producing a document. The implied reader is consuming it efficiently. "Prefer paragraphs" activates a different geometry entirely: essayist, single reader, argument that unfolds, a speaker following a thought and expecting the reader to follow along. These aren't just aesthetic differences — they're different social configurations with different implied relationships between writer and reader, different norms for how ambiguity gets handled, different assumptions about what the reader already knows.
 
